@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.liferay.counter.kernel.service.CounterLocalServiceUtil"/>
+<fullyQualifiedTypeName name="com.entryservice.model.Employ"/>
+<fullyQualifiedTypeName name="com.entryservice.service.EmployLocalServiceUtil"/>
+<fullyQualifiedTypeName name="javax.portlet.ProcessAction"/>
+<fullyQualifiedTypeName name="javax.portlet.ActionRequest"/>
+<fullyQualifiedTypeName name="javax.portlet.ActionResponse"/>
+<fullyQualifiedTypeName name="javax.portlet.RenderRequest"/>
+<fullyQualifiedTypeName name="javax.portlet.RenderResponse"/>
+<fullyQualifiedTypeName name="com.liferay.portal.kernel.util.ParamUtil"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="javax.portlet.PortletException"/>
+</qualifiedTypeNameHistroy>

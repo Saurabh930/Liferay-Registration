@@ -1,0 +1,12 @@
+#
+#Tue Nov 02 19:01:53 IST 2021
+classpath=<?xml version\="1.0" encoding\="UTF-8"?>\n<classpath>\n<classpathentry kind\="src" path\="/EntryService-api"/>\r\n<classpathentry kind\="lib" path\="C\:/Users/Lenovo/.gradle/caches/modules-2/files-2.1/com.liferay.portal/release.dxp.api/7.3.10.1/1d94eb2176e3cf68965229d5f7f22121a1c5c21e/release.dxp.api-7.3.10.1.jar" sourcepath\="C\:/Users/Lenovo/.gradle/caches/modules-2/files-2.1/com.liferay.portal/release.dxp.api/7.3.10.1/8407208f7e7363c2545b5e8577f3cc77dd56fa3b/release.dxp.api-7.3.10.1-sources.jar">\r\n\t<attributes>\r\n\t\t<attribute name\="gradle_used_by_scope" value\=""/>\r\n\t</attributes>\r\n</classpathentry>\r\n</classpath>\n
+buildScriptPath=build.gradle
+linkedResources=
+subprojectPaths=
+managedNatures=org.eclipse.jdt.core.javanature
+hasAutoBuildTasks=false
+gradleVersion=5.6.4
+buildDir=build
+managedBuilders=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><commands/>
+derivedResources=.gradle;build

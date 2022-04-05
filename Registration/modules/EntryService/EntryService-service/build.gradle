@@ -1,0 +1,11 @@
+dependencies {
+	compile project(":modules:EntryService:EntryService-api")
+
+	compileOnly group: "com.liferay.portal", name: "release.dxp.api"
+}
+
+buildService {
+	apiDir = "../EntryService-api/src/main/java"
+}
+
+group = "com.entryservice"

@@ -1,0 +1,10 @@
+Bundle-Name: EntryService-api
+Bundle-SymbolicName: com.entryservice.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	com.entryservice.exception,\
+	com.entryservice.model,\
+	com.entryservice.service,\
+	com.entryservice.service.persistence
+-check: EXPORTS
+-includeresource: META-INF/service.xml=../EntryService-service/service.xml

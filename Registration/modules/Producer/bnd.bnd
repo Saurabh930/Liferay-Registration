@@ -1,0 +1,4 @@
+Bundle-Name: Producer
+Bundle-SymbolicName: com.producer
+Bundle-Version: 1.0.0
+Export-Package: com.producer.constants

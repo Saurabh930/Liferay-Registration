@@ -1,0 +1,12 @@
+#
+#Tue Nov 02 19:01:53 IST 2021
+classpath=<?xml version\="1.0" encoding\="UTF-8"?>\n<classpath>\n</classpath>\n
+buildScriptPath=build.gradle
+linkedResources=
+subprojectPaths=modules;modules/Consumer;modules/EntrySenderpotlet;modules/EntryService;modules/Producer;modules/EntryService/EntryService-api;modules/EntryService/EntryService-service
+managedNatures=org.eclipse.jdt.core.javanature
+hasAutoBuildTasks=false
+gradleVersion=5.6.4
+buildDir=build
+managedBuilders=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><commands/>
+derivedResources=.gradle;build;modules/build;modules/Consumer/build;modules/EntrySenderpotlet/build;modules/EntryService/build;modules/Producer/build;modules/EntryService/EntryService-api/build;modules/EntryService/EntryService-service/build

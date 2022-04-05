@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+
+<model-hints>
+	<model name="com.entryservice.model.Employ">
+		<field name="sid" type="long" />
+		<field name="name" type="String" />
+		<field name="email" type="String" />
+		<field name="aadhar" type="String" />
+		<field name="pan" type="String" />
+	</model>
+</model-hints>

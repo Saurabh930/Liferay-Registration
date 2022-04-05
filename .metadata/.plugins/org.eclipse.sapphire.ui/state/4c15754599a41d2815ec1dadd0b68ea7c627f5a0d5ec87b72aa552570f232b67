@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MasterDetailsEditorPageState>
+    <ContentOutlineState>
+        <Ratio>0.2984154929577465</Ratio>
+        <Root>
+            <Children>
+                <MasterDetailsNodeState>
+                    <Label>Service Builder</Label>
+                    <Expanded>true</Expanded>
+                    <Children>
+                        <MasterDetailsNodeState>
+                            <Label>Entities</Label>
+                            <Expanded>true</Expanded>
+                            <Children>
+                                <MasterDetailsNodeState>
+                                    <Label>Employ</Label>
+                                    <Expanded>true</Expanded>
+                                    <Children>
+                                        <MasterDetailsNodeState>
+                                            <Label>Columns</Label>
+                                            <Expanded>true</Expanded>
+                                        </MasterDetailsNodeState>
+                                        <MasterDetailsNodeState>
+                                            <Label>Finders</Label>
+                                            <Expanded>true</Expanded>
+                                            <Selected>true</Selected>
+                                        </MasterDetailsNodeState>
+                                    </Children>
+                                </MasterDetailsNodeState>
+                            </Children>
+                        </MasterDetailsNodeState>
+                    </Children>
+                </MasterDetailsNodeState>
+            </Children>
+        </Root>
+    </ContentOutlineState>
+</MasterDetailsEditorPageState>

@@ -1,0 +1,4 @@
+Bundle-Name: Consumer
+Bundle-SymbolicName: com.consumer
+Bundle-Version: 1.0.0
+Export-Package: com.consumer.constants
